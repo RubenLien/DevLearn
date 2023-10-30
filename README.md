@@ -1,2 +1,2 @@
 # LearningTS
-Projects I will do to learn TypeScript. Some projects will be combined with React.
+Projects I will do to learn web dev. Projects with TypeScript, JavaScript, Next.js, React etc. 
